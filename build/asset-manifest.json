@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "/static/css/main.2708798e.chunk.css",
+    "main.js": "/static/js/main.9608182e.chunk.js",
+    "main.js.map": "/static/js/main.9608182e.chunk.js.map",
+    "runtime-main.js": "/static/js/runtime-main.821a8231.js",
+    "runtime-main.js.map": "/static/js/runtime-main.821a8231.js.map",
+    "static/css/2.383c0125.chunk.css": "/static/css/2.383c0125.chunk.css",
+    "static/js/2.b1c74535.chunk.js": "/static/js/2.b1c74535.chunk.js",
+    "static/js/2.b1c74535.chunk.js.map": "/static/js/2.b1c74535.chunk.js.map",
+    "static/js/3.cb0f930e.chunk.js": "/static/js/3.cb0f930e.chunk.js",
+    "static/js/3.cb0f930e.chunk.js.map": "/static/js/3.cb0f930e.chunk.js.map",
+    "index.html": "/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.2708798e.chunk.css.map": "/static/css/main.2708798e.chunk.css.map",
+    "static/js/2.b1c74535.chunk.js.LICENSE.txt": "/static/js/2.b1c74535.chunk.js.LICENSE.txt",
+    "static/media/discord.4f5dfe2f.svg": "/static/media/discord.4f5dfe2f.svg",
+    "static/media/medium.c0d9cf52.svg": "/static/media/medium.c0d9cf52.svg",
+    "static/media/noFilter.6519265a.webp": "/static/media/noFilter.6519265a.webp",
+    "static/media/staking.e7369dfb.svg": "/static/media/staking.e7369dfb.svg",
+    "static/media/team.00640a3e.svg": "/static/media/team.00640a3e.svg",
+    "static/media/telegram.cdd2104a.svg": "/static/media/telegram.cdd2104a.svg",
+    "static/media/twitter.fca1c0f9.svg": "/static/media/twitter.fca1c0f9.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.821a8231.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.b1c74535.chunk.js",
+    "static/css/main.2708798e.chunk.css",
+    "static/js/main.9608182e.chunk.js"
+  ]
+}
